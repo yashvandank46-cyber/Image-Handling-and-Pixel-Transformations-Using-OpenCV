@@ -271,6 +271,22 @@ plt.axis("off")
 
 
 ## OUTPUT
+<img width="420" height="515" alt="Screenshot 2026-10-29 095643" src="https://github.com/user-attachments/assets/06450074-cdf2-4498-bd1e-c1922533676f" />
+<img width="426" height="521" alt="Screenshot 2026-10-29 095651" src="https://github.com/user-attachments/assets/d6e98de5-2248-4cbd-9431-f594724d19bd" />
+<img width="382" height="500" alt="Screenshot 2026-10-29 095700" src="https://github.com/user-attachments/assets/e440a11e-75e1-41b9-8a0e-855a327b5456" />
+<img width="388" height="512" alt="Screenshot 2026-10-29 095711" src="https://github.com/user-attachments/assets/8daf9638-25e1-4a42-b343-2fcc04594151" />
+<img width="377" height="515" alt="Screenshot 2026-10-29 095722" src="https://github.com/user-attachments/assets/517e835e-5cc5-45f1-b4d4-5ce3d74faf78" />
+<img width="375" height="500" alt="Screenshot 2026-10-29 095733" src="https://github.com/user-attachments/assets/6500bebd-214e-4c3f-8840-f7ce9e714679" />
+<img width="397" height="507" alt="Screenshot 2026-10-29 095741" src="https://github.com/user-attachments/assets/0856c055-c1f4-4b4a-b761-3e8e82a8f711" />
+<img width="337" height="491" alt="Screenshot 2026-10-29 095751" src="https://github.com/user-attachments/assets/aa6ea370-3278-407e-9bfa-318f9e5f8ae4" />
+<img width="382" height="492" alt="Screenshot 2026-10-29 095759" src="https://github.com/user-attachments/assets/7b15cd6f-2997-40af-8d4b-754bfa8342d8" />
+<img width="402" height="496" alt="Screenshot 2026-10-29 095809" src="https://github.com/user-attachments/assets/16fc8cfb-a7b5-40d9-81cf-60408c8c7316" />
+<img width="387" height="506" alt="Screenshot 2026-10-29 095818" src="https://github.com/user-attachments/assets/37ff5bff-b87d-4e7a-a23d-593ac8b1853a" />
+<img width="440" height="546" alt="Screenshot 2026-10-29 095828" src="https://github.com/user-attachments/assets/af904ea0-e59b-47bd-bd50-badf48c2f521" />
+<img width="518" height="527" alt="Screenshot 2026-10-29 095836" src="https://github.com/user-attachments/assets/f91e110e-b0d0-4d80-803e-16783add8677" />
+<img width="445" height="502" alt="Screenshot 2026-10-29 095843" src="https://github.com/user-attachments/assets/240dae55-6c48-481e-ad20-7d7baae42e28" />
+<img width="392" height="503" alt="Screenshot 2026-10-29 095850" src="https://github.com/user-attachments/assets/0ac80bc5-9071-4074-8e3f-d4bd2995cceb" />
+
 
 
 ## RESULT
